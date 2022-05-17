@@ -22,6 +22,12 @@ python Admin Page ( Panel ) **Scanner** 🧨
 
 - open windows terminal & type `cd OnionAdmin.py <link>`
 
+# example
+
+- `python OnionAdmin.py https://www.triathlon.org/`
+
+- `python OnionAdmin.py http://www.pau-fcp.in/`
+
 # Contact Me
 
 **[Telegram Channel](https://t.me/NullCyberi)**
